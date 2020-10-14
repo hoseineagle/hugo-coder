@@ -143,16 +143,16 @@ disqusShortname = "yourdiscussshortname"
 
 
     [languages.pt-br]
-        languagename = "Português"
-        languageinitials = "BR"
-        title = "João Ninguém"
+        languagename = "فارسی"
+        languageinitials = "IR"
+        title = "حسین معظم"
 
         [languages.pt-br.params]
-            author = "João Ninguém"
-            info = "Full Stack DevOps e Mágico"
-            description = "Sítio pessoal de João Ninguém"
-            keywords = "blog,desenvolvedor,pessoal"
-            footercontent = "Coloque algum texto aqui."
+            author = "حسین معظم"
+            info = "کارشناس امنیت"
+            description = ""
+            keywords = "شخصی,امنیت,بلاگ"
+            footercontent = ""
 
         [languages.pt-br.menu]
 
