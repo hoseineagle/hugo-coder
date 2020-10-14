@@ -19,7 +19,7 @@ disqusShortname = "yourdiscussshortname"
     description = "Hossein Moazam's personal website"
     keywords = "blog,security,personal"
     info = "Security Analyst"
-    avatarurl = "https://twitter.com/About_Hossein/photo"
+    avatarurl = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
     footercontent = "When Naru embraced my light as a child of her own..."
 
