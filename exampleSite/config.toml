@@ -19,7 +19,7 @@ disqusShortname = "yourdiscussshortname"
     description = "Hossein Moazam's personal website"
     keywords = "blog,security,personal"
     info = "Security Analyst"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "https://twitter.com/About_Hossein/photo"
     #gravatar = "john.doe@example.com"
     footercontent = "Enter a text here."
 
