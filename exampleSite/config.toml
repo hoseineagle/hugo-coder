@@ -15,10 +15,10 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
-    keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
+    author = "Hossein Moazam"
+    description = "Hossein Moazam's personal website"
+    keywords = "blog,security,personal"
+    info = "Security Analyst"
     avatarurl = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
     footercontent = "Enter a text here."
@@ -95,7 +95,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Twitter"
     icon = "fa fa-twitter"
     weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "https://twitter.com/about_hossein/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fa fa-linkedin"
