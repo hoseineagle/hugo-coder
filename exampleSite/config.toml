@@ -1,5 +1,5 @@
-baseurl = "http://www.example.com"
-title = "johndoe"
+baseurl = "http://www.moazam.me"
+title = "Hossein"
 
 theme = "hugo-coder"
 
@@ -85,12 +85,12 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fa fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/hoseineagle/"
 [[params.social]]
     name = "Gitlab"
     icon = "fa fa-gitlab"
     weight = 2
-    url = "https://gitlab.com/johndoe/"
+    #url = "https://gitlab.com/hoseineagle/"
 [[params.social]]
     name = "Twitter"
     icon = "fa fa-twitter"
@@ -100,19 +100,19 @@ disqusShortname = "yourdiscussshortname"
     name = "LinkedIn"
     icon = "fa fa-linkedin"
     weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
+    url = "https://www.linkedin.com/in/hossein-moazam/"
 [[params.social]]
-    name = "Medium"
+    name = "Telegram"
     icon = "fa fa-medium"
     weight = 5
-    url = "https://medium.com/@johndoe"
+    #url = "https://medium.com/@johndoe"
 [[params.social]]
     name = "RSS"
     icon = "fa fa-rss"
     weight = 6
     url = "https://myhugosite.com/index.xml"
     rel = "alternate"
-    type = "application/rss+xml"
+    #type = "application/rss+xml"
 
 
 [languages]
